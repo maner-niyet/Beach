@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="beach.css">
+    <title>The Beach</title>
+</head>
+<body>
+    <header class="showcase">
+        <h1>Welcome To The Beach</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eni laudantium blanditiis voluptatibus nihil earum provident!</p>
+        <a href="#" class="button">Read More</a>
+    </header>
+    <section class="section-a">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste maiores quasi quis veritatis libero, architecto, id modi rerum amet quam dolorum tempora eveniet ut quae ea sit at aliquam! Optio modi repellendus pariatur cumque ullam temporibus corporis architecto praesentium veniam suscipit. Commodi ab quod molestiae necessitatibus amet, minima in quo alias, maxime possimus architecto ut error suscipit numquam quibusdam reiciendis accusantium illo nam incidunt est magni! Ipsum quos, quod saepe neque quia qui pariatur deserunt harum eum architecto sapiente dicta nisi maxime! Laboriosam voluptates enim tenetur sed. Vitae amet, provident, consequuntur expedita quis nisi alias debitis, eius corrupti recusandae ullam.</p>
+    </section>
+    <section class="section-b">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis at iusto expedita veritatis in molestias voluptas labore ad facere. Quod harum enim delectus sint eum iure fugiat ab optio nulla provident distinctio odit soluta repellat sed, ipsa pariatur voluptas voluptatum quas quia, necessitatibus, dicta excepturi. Molestias odio sint veritatis. Sapiente fugiat illo assumenda reiciendis. Reiciendis repellendus tempore totam ex iste cumque neque omnis, in assumenda mollitia enim laborum qui unde praesentium voluptate veritatis animi cum odit illo quidem? Iure, eveniet quam, repudiandae deleniti deserunt magnam illum totam sit sint rem nesciunt temporibus in, beatae veniam placeat qui esse reprehenderit voluptate!</p>
+    </section>
+    <section class="section-c">
+        <div class="box-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo explicabo impedit consectetur harum quas sint ab quo optio dicta iure!</div>
+        <div class="box-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo explicabo impedit consectetur harum quas sint ab quo optio dicta iure!</div>
+        <div class="box-3">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo explicabo impedit consectetur harum quas sint ab quo optio dicta iure!</div>
+    </section>
+</body>
+</html>
